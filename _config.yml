@@ -1,0 +1,12 @@
+theme: jekyll-theme-slate
+title: Test
+show_downloads: false
+markdown: kramdown
+
+github:
+  repository_name: Test website
+  repository_url: https://github.com/gautierbureau
+  owner_name: Gautier Bureau
+
+plugins:
+- jekyll-relative-links
