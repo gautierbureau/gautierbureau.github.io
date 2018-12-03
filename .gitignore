@@ -1,0 +1,6 @@
+launch.sh
+
+# Jekyll generated directory
+_site
+.sass-cache
+Gemfile.lock
