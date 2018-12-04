@@ -3,13 +3,7 @@ title:
 layout: default
 ---
 
-Hello World
-
-[install](install/index.md)
-
-[test](test/index.md)
-
-{% highlight modelica %}
+```modelica
 model Test
   parameter Real a = 1;
   parameter Real b = 2;
@@ -17,4 +11,14 @@ model Test
 equation
   a*der(u) = -b*u;
 end Test;
-{% endhighlight %}
+```
+
+~~~modelica
+model Test
+  parameter Real a = 1;
+  parameter Real b = 2;
+  Real u (start = 1);
+equation
+  a*der(u) = -b*u;
+end Test;
+~~~

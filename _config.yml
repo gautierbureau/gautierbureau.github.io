@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Test
 show_downloads: false
-markdown: KramdownPygments
+markdown: kramdown
 
 github:
   repository_name: Test website
@@ -10,4 +10,3 @@ github:
 
 plugins:
 - jekyll-relative-links
-- liquid
