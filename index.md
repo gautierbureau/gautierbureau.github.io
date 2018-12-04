@@ -9,7 +9,7 @@ Hello World
 
 [test](test/index.md)
 
-```modelica
+{% highlight modelica %}
 model Test
   parameter Real a = 1;
   parameter Real b = 2;
@@ -17,4 +17,4 @@ model Test
 equation
   a*der(u) = -b*u;
 end Test;
-```
+{% endhighlight %}
