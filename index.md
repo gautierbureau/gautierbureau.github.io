@@ -1,5 +1,5 @@
 ---
-title:
+title: Dynaωo
 layout: default
 ---
 
