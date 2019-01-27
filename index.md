@@ -1,11 +1,7 @@
 ---
-title: Dynaωo
+title: Test
 layout: default
 ---
-
-Dyna&#969;o
-Dyna&omega;
-Dynaωo
 
 ```modelica
 model Test
