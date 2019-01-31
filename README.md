@@ -10,7 +10,9 @@
     This file is part of TOTO, a simulator
 -->
 
-<center># Test</center>
+<center>
+# Test
+</center>
 
 ## Index 1
 
